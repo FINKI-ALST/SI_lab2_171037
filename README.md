@@ -5,6 +5,8 @@
 
 ### Control Flow Graph
 
+![labalek](https://user-images.githubusercontent.com/62511297/84206951-86c14300-aab0-11ea-9553-6092a2d3ea95.jpg)
+
 ### Цикломатска комплексност
 
 ### Тест случаи според критериумот Every Path Test
