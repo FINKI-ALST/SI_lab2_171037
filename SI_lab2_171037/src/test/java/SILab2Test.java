@@ -2,7 +2,7 @@ import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-public class SILab2ATest {
+public class SILab2Test {
     private final User user(String username, String password, String email){
         return user(username,password,email);
     }
