@@ -24,7 +24,7 @@ class User {
 
 public class SILab2 {
 
-    public static boolean function (User user, String allUsers) { //1
+    public static boolean function (User user, List<String> allUsers) { //1
         if (user!=null) { //2
             if (user.getUsername()!=null && user.getEmail()!=null && !allUsers.contains(user.getUsername())) { //3
                 boolean atChar = false, dotChar = false; //4
